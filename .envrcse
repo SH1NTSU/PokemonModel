@@ -1,1 +1,1 @@
-use nix /etc/nixos/shell.nix nix
+use nix /etc/nixos/shell.nix nix 
